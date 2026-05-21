@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "country": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interesting_fact": "Japan has more than 5 million vending machines, selling everything from drinks to umbrellas."
+  },
+  {
+    "id": 2,
+    "country": "India",
+    "capital": "New Delhi",
+    "population": 1418000000,
+    "interesting_fact": "India is the world’s largest democracy and has the second-largest population globally."
+  },
+  {
+    "id": 3,
+    "country": "Australia",
+    "capital": "Canberra",
+    "population": 26000000,
+    "interesting_fact": "Australia is home to more kangaroos than humans."
+  },
+  {
+    "id": 4,
+    "country": "Brazil",
+    "capital": "Brasília",
+    "population": 215000000,
+    "interesting_fact": "Brazil is home to about 60% of the Amazon Rainforest."
+  },
+  {
+    "id": 5,
+    "country": "Canada",
+    "capital": "Ottawa",
+    "population": 39000000,
+    "interesting_fact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 6,
+    "country": "Russia",
+    "capital": "Moscow",
+    "population": 144000000,
+    "interesting_fact": "Russia is the largest country in the world by land area, spanning 11 time zones."
+  },
+  {
+    "id": 7,
+    "country": "Egypt",
+    "capital": "Cairo",
+    "population": 112000000,
+    "interesting_fact": "Egypt is home to the Great Pyramid of Giza, the only surviving Wonder of the Ancient World."
+  },
+  {
+    "id": 8,
+    "country": "France",
+    "capital": "Paris",
+    "population": 68000000,
+    "interesting_fact": "France is the most visited country in the world by tourists."
+  },
+  {
+    "id": 9,
+    "country": "South Korea",
+    "capital": "Seoul",
+    "population": 52000000,
+    "interesting_fact": "South Korea has the fastest internet speed in the world."
+  },
+  {
+    "id": 10,
+    "country": "Iceland",
+    "capital": "Reykjavík",
+    "population": 370000,
+    "interesting_fact": "Iceland has no standing army and is considered one of the most peaceful countries in the world."
+  }
+]
