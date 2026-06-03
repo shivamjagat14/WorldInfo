@@ -17,12 +17,8 @@ function App() {
       errorElement: <ErrorPage/>,
       children: [
         {
-      path: "/WorldInfo",
+      path: "/",
       element: <Home/>
-    },
-    {
-      path:"/",
-      element:<Home/>
     },
     {
       path: "about",
