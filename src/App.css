@@ -74,8 +74,8 @@ a{
   justify-content: center;
   align-items: center;
 }
-.container .world_img{
-  width: 100%;
+.container .hero_img img{
+  width: 5px;
 }
 .btn{
   padding: 0.6rem;

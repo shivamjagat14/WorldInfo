@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaArrowRightLong } from "react-icons/fa6";
+import img from "../../../public/images/world.png"
 
 export const Hero = () => {
   return (
@@ -17,7 +18,7 @@ export const Hero = () => {
           </button>
         </div>
         <div className="hero-img">
-          <img src="/images/world.png" alt="world imgae" className="world_img" />
+          <img src={img} alt="world imgae" className="world_img" />
         </div>
       </div>
     </main>
